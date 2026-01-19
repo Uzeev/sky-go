@@ -1,8 +1,8 @@
 {
-  "name": "sky-go",
+  "name": "sky-gogo",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://sky-go.vercel.app",
+  "homepage": "https://sky-gogo.vercel.app",
   "description": "Sky Go 🚀 - Dodge meteors and explore the skies in pixel-art style, built for Farcaster.",
   "keywords": ["arcade", "pixelart", "sky", "go", "miniapp", "farcaster", "game"],
   "scripts": {
